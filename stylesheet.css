@@ -55,6 +55,4 @@ body {
 .navigation a:hover{
 	color:yellow;
 }
-@media screen and (max-width: 601px) {
-  .advertisement {height:auto;} 
-}
+
