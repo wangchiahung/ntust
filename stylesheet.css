@@ -19,12 +19,10 @@ body {
 	position: fixed;
 	bottom: 0;
 	clear:both;
-	margin:0;
 	height:20px;
 	width:100%;
 	display:block;
 	text-align:center;
-	border-top:1px dashed black;
 }
 .content {
 	margin:0;
