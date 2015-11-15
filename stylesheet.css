@@ -19,10 +19,11 @@ body {
 	position: fixed;
 	bottom:0;
 	clear:both;
-	height:20px;
+	height:25px;
 	width:100%;
 	display:block;
 	text-align:center;
+	margin:0;
 }
 .content {
 	margin:0;
