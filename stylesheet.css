@@ -26,12 +26,11 @@ body {
 	margin:0;
 }
 .content {
-	margin:0;
-	height:auto;
-	width:100%;
+	height:100%;
 }
 .advertisement {
 	float:left;
+	height:100%;
 	width:10%;
 	margin:5px;
 	display:incline-block;
