@@ -17,7 +17,7 @@ body {
 }
 .footer {
 	position: fixed;
-	bottom: 0;
+	bottom: 10;
 	clear:both;
 	height:20px;
 	width:100%;
