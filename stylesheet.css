@@ -26,14 +26,10 @@ body {
 	margin:0;
 }
 .content {
-	height:100%;
+	height:500px;
 }
 .advertisement {
-	float:left;
 	height:100%;
-	width:10%;
-	margin:5px;
-	display:incline-block;
 }
 .news {
 	position:relative;
@@ -58,4 +54,7 @@ body {
 }
 .navigation a:hover{
 	color:yellow;
+}
+@media screen and (max-width: 601px) {
+  .advertisement {height:auto;} 
 }
